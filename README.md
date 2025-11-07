@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a strong foundatio
 - Email: [amkoshki86@gmail.com](mailto:amkoshki86@gmail.com)
 
 ## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SoulKeeper2&layout=compact&theme=radical&transparent=true&count=8)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SoulKeeper2&layout=compact&theme=radical&transparent=true&count=9)
 
 Feel free to explore my repositories, and don't hesitate to reach out if you have any questions or collaboration ideas!
 
