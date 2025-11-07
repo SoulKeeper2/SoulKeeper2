@@ -9,22 +9,16 @@ Welcome to my GitHub profile! I'm a passionate developer with a strong foundatio
   - Web development (ASP.NET)
   - Writing programs, such as a Twitch moderator bot using TwitchLib.
 
-- **Python**: Basic knowledge with experience in writing simple programs, including a Telegram bot.
-
-### Ethical Hacking & Cybersecurity
-- Currently learning about:
-  - Ethical Hacking
-  - Penetration Testing
-  - Network Security
+- **C++**: Basic knowledge with experience in writing simple programs.
 
 ## 🌱 Currently Learning
-- **Ethical Hacking**: Exploring tools and techniques for penetration testing and network security.
+- **ASP.NET**: I am currently watching a lot of tutorials. 
 
 ## 📫 How to Reach Me
 - Email: [amkoshki86@gmail.com](mailto:amkoshki86@gmail.com)
 
 ## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SoulKeeper2&layout=compact&theme=radical&transparent=true&count=7)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SoulKeeper2&layout=compact&theme=radical&transparent=true&count=8)
 
 Feel free to explore my repositories, and don't hesitate to reach out if you have any questions or collaboration ideas!
 
