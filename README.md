@@ -11,9 +11,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a strong foundatio
 
 - **C++**: Basic knowledge with experience in writing simple programs.
 
-## 🌱 Currently Learning
-- **ASP.NET**: I am currently watching a lot of tutorials. 
-
 ## 📫 How to Reach Me
 - Email: [amkoshki86@gmail.com](mailto:amkoshki86@gmail.com)
 
