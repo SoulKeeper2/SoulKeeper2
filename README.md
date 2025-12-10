@@ -1,6 +1,6 @@
 # 👋 Hello, I'm AmirMahan Koshki!
 
-Welcome to my GitHub profile! I'm a passionate developer with a strong foundation in C# and a keen interest in ethical hacking. I enjoy exploring new technologies and applying my skills to solve real-world problems.
+Welcome to my GitHub profile! I'm a passionate developer with a strong foundation in C# and a keen interest in Web Development. I enjoy exploring new technologies and applying my skills to solve real-world problems.
 
 ## 🛠️ Skills
 
